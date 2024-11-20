@@ -1,0 +1,39 @@
+* {
+    background-color: thistle;
+    padding: 0%;
+    text-align: center;
+}
+
+a {
+    color: teal;
+}
+
+h1 {
+    font-style: italic;
+    color: purple;
+}
+
+img {
+    width: 600px;
+    height: 500px;
+    border: 20px double #8950ff;
+}
+
+h3 {
+    color: deeppink;
+}
+
+h4 {
+    color: darkmagenta;
+}
+
+.destacados {
+    color: red;
+}
+
+.formulario {
+    padding-left: 10px;
+    padding-right: 10px;
+    border:10px dotted #8950ff;
+    display: inline-flex;
+}
